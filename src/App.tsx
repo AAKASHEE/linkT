@@ -105,15 +105,6 @@ function App() {
       clicks: 189,
       gradient: 'from-green-500 to-teal-600'
     },
-    {
-      id: '7',
-      title: 'PHOTOGRAPHY',
-      url: 'https://snapxdart.vercel.app/',
-      type: 'social',
-      icon: <Camera className="w-5 h-5" />,
-      clicks: 189,
-      gradient: 'from-green-500 to-teal-600'
-    }
   ];
 
   const analytics: Analytics = {
