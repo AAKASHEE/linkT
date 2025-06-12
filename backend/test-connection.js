@@ -44,3 +44,4 @@ const testConnection = async () => {
 };
 
 testConnection();
+console.log("🔍 Loaded MONGODB_URI:", process.env.MONGODB_URI);
