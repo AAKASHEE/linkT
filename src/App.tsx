@@ -281,7 +281,7 @@ function App() {
         {/* Footer */}
         <div className="text-center mt-12">
           <p className={`text-sm ${darkMode ? 'text-gray-400' : 'text-gray-500'}`}>
-            Made with ❤️ using AAKASHE
+            Made with 🖤 by AAKASHE
           </p>
           <div className="flex justify-center space-x-4 mt-4">
             <div className={`w-2 h-2 rounded-full ${darkMode ? 'bg-white/30' : 'bg-gray-400'}`}></div>
